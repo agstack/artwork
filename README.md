@@ -1,4 +1,4 @@
-## Agstack Project Logos
+## Agstack Artwork
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
@@ -26,29 +26,23 @@
     <tr>
         <th>color</th>
         <td><img src="agstack/horizontal/color/agstack-color.png" width="200"></td>
-        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
-        <td><img src="/projects/flagger/icon/color/flagger-icon-color.png" width="75"></td>
-        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
+        <td><img src="agstack/icon/color/agstack-icon-color.png" width="95"></td>
+        <td><img src="agstack/horizontal/color/agstack-color.svg" width="200"></td>
+        <td><img src="agstack/icon/color/agstack-icon-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
-        <td><img src="/projects/flagger/icon/black/flagger-icon-black.png" width="75"></td>
-        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
+        <td><img src="agstack/horizontal/black/agstack-black.png" width="200"></td>
+        <td><img src="agstack/icon/black/agstack-icon-black.png" width="95"></td>
+        <td><img src="agstack/horizontal/black/agstack-black.svg" width="200"></td>
+        <td><img src="agstack/icon/black/agstack-icon-black.svg" width="95"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
-        <td><img src="/projects/flagger/icon/white/flagger-icon-white.png" width="75"></td>
-        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
+        <td><img src="agstack/horizontal/white/agstack-white.png" width="200"></td>
+        <td><img src="agstack/icon/white/agstack-icon-white.png" width="95"></td>
+        <td><img src="agstack/horizontal/white/agstack-white.svg" width="200"></td>
+        <td><img src="agstack/icon/white/agstack-icon-white.svg" width="95"></td>
     </tr>
 </table>
 
